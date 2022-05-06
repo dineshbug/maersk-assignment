@@ -1,0 +1,6 @@
+com\example\demo\MaerskAssignmentApplication.class
+com\example\bean\CONTAINERENUM.class
+com\example\bean\MaerskBean.class
+com\example\bean\MaerskResponse.class
+com\example\respository\MaerskRepository.class
+com\example\controller\MaerskResource.class
